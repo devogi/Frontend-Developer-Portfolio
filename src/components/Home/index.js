@@ -57,7 +57,7 @@ const Home = () => {
               idx={22}
             />
           </h1>
-          <h2>Front End Developer / JavaScript Keen / Based in Istanbul</h2>
+          <h2>Front End Developer / JavaScript Keen / Based in München</h2>
           <Link to="/contact" className="flat-button">
             CONTACT ME
           </Link>
