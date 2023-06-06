@@ -87,7 +87,7 @@ const Contact = () => {
         <div className="info-map">
           Oguzhan Salkim,
           <br />
-          Turkey,
+          Deutschland,
           <br />
           Penzberg, 82377 <br />
           München <br />
