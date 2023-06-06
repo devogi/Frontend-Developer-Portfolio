@@ -44,7 +44,7 @@ const Contact = () => {
             />
           </h1>
           <p>
-            I am interested in freelance opportunities - especially at a junior
+            I am interested in front-end development projects - especially at a junior
             developer scale. However, if you have other request or question,
             don't hesitate to contact me using below form either.
           </p>
