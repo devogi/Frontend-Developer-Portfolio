@@ -89,16 +89,16 @@ const Contact = () => {
           <br />
           Turkey,
           <br />
-          Halkali Merkez, Halkali, 34303 <br />
-          Kucukcekmece <br />
+          Penzberg, 82377 <br />
+          München <br />
           <br />
           <span>devogi34@gmail.com</span>
         </div>
         <div className="map-wrap">
-          <MapContainer center={[41.03142883297945, 28.78449141534646]} zoom={13}>
+          <MapContainer center={[47.753170, 11.387450]} zoom={13}>
           
             <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
-            <Marker position={[41.03142883297945, 28.78449141534646]}>
+            <Marker position={[47.753170, 11.387450]}>
               <Popup>
                 Oguzhan lives here, come over for a cup of coffee :)
               </Popup>
