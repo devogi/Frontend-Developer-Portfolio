@@ -89,16 +89,16 @@ const Contact = () => {
           <br />
           Deutschland,
           <br />
-          Penzberg, 82377 <br />
+          Ebersberg, 85560 <br />
           München <br />
           <br />
           <span>devogi34@gmail.com</span>
         </div>
         <div className="map-wrap">
-          <MapContainer center={[47.753170, 11.387450]} zoom={13}>
+          <MapContainer center={[48.076535, 11.959445]} zoom={13}>
           
             <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
-            <Marker position={[47.753170, 11.387450]}>
+            <Marker position={[48.076535, 11.959445]}>
               <Popup>
                 Oguzhan lives here, come over for a cup of coffee :)
               </Popup>
